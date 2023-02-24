@@ -1,0 +1,30 @@
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+# Architecture Overview
+
+In this chapter GARDE’s architecture, deployment options, and steps that need to be performed to prepare for population analysis are described.
+
+## Motivation
+
+Thirteen percent of individuals have an elevated risk for familial breast or colorectal cancer (Scheuner, 2010) and most are unaware of their risk. National Comprehensive Cancer Network (NCCN) guidelines recommend risk-based genetic testing for these individuals, but the guidelines are not expressed in a computationally shareable form.
+
+GARDE provides population analysis tools and a computational version of the NCCN guidelines that are based on interoperability standards (HL7 FHIR and CDS Hooks) to optimize sharing opportunities.
+
+Understanding how GARDE works and what needs to be done to deploy GARDE promotes its use and purpose toward analyzing populations from multiple organizations to identify individuals at risk for early onset familial cancers who will benefit from genetic testing.
+
+## Target Audience  
+
+The course is intended for cancer researchers and/or genetic counselors who are interested in using GARDE to identify people who meet NCCN guideline criteria for genetic testing.
+
+## Curriculum  
+
+GARDE's architecture
+
+Steps to prepare for installation
+
+Deployment options
+
+

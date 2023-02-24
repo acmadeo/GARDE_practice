@@ -1,0 +1,15 @@
+
+# User Guide
+
+The chapter teaches users about GARDE's web tools used to
+ - Run GARDE
+ - Configure GARDE
+ - Validate GARDE's configuration
+
+```{r, include = FALSE}
+ottrpal::set_knitr_image_path()
+```
+
+## Login
+
+The username and password for GARDE is set by the person who installs GARDE.

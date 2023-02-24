@@ -26,3 +26,12 @@ using-html-3
 dropdown-summaries
 print-out-session-info
 references
+problem
+solution
+garde-architecture
+garde-architecture-for-researchers
+garde-architecture-and-deployment-for-researchers
+garde-architecture-overview
+user-guide
+login
+architecture-overview
